@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mukes137
+- 👋 Hi, I’m Mukesh Awasthi.
 - 👀 I’m interested in Cloud Computing & DevOps Engineering.
 - 🌱 I’m currently learning AWS & Some DevOps tool.
 - 📫 You can reach me through my mail "awasthimukesh123@gmail.com".
