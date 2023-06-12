@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukesh Awasthi.
 - 👀 I’m interested in Cloud Computing & DevOps Engineering.
-- 🌱 I’m currently learning AWS & Some DevOps tool.
+- 🌱 I’m currently learning AWS & some of the DevOps tool.
 - 📫 You can contact me at "awasthimukesh123@gmail.com" for any query.
 
 <!---
