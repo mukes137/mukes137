@@ -10,7 +10,6 @@
 ### 📊 My GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukes137&show_icons=true&hide_rank=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukes137&count_private=true&layout=compact&theme=radical)]
 
 ---
 
@@ -21,3 +20,6 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-skyblue?style=for-the-badge&logo=docker&logoColor=white)    
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+
+![Mukesh's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mukes137&theme=radical)
