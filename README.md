@@ -22,6 +22,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 
-### 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mukes137&theme=radical&no-frame=true&row=1&column=6)
+### 📜 Certifications
+- 🏅 **AWS Developer Associate**  
+- 🏅 **AWS DevOps Professional**  
 
