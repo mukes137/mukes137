@@ -37,7 +37,13 @@ Key Projects
     🌟 GitHub: awasthimukesh123
 
 ![GitHub commit graph](https://ghchart.rshah.org/mukes137)
+
 ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukes137&count_private=true&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukes137&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
