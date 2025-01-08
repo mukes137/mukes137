@@ -17,8 +17,8 @@
 
 ### 🛠️ My DevOps Toolkit  
 
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-skyblue?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-darkblue?style=for-the-badge&logo=githubactions&logoColor=white)  
