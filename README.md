@@ -36,4 +36,5 @@ Key Projects
     💼 LinkedIn: Mukesh Awasthi
     🌟 GitHub: awasthimukesh123
 
-🚀 Fun Stats & More
+![GitHub commit graph](https://ghchart.rshah.org/awasthimukesh123)
+
