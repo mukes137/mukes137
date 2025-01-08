@@ -36,5 +36,8 @@ Key Projects
     💼 LinkedIn: Mukesh Awasthi
     🌟 GitHub: awasthimukesh123
 
-![GitHub commit graph](https://ghchart.rshah.org/awasthimukesh123)
+![GitHub commit graph](https://ghchart.rshah.org/mukes137)
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukes137&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukes137&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
